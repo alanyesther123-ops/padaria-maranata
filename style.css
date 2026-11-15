@@ -647,3 +647,5 @@ blockquote footer {
     animation: none;
   }
 }
+.btn-ifood { background: #ea1d2c; color: #fff; }
+.btn-ifood:hover { background: #c4121f; }
